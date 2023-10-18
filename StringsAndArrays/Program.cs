@@ -58,7 +58,7 @@ namespace StringsAndArrays
             // 1. Basic Array Operations
             // 1.1 initialize array called numbers containing array of int values
             //     Add these values to the array -> 2 3 5 7 11 
-            int[] numbers = { 2, 3, 5, 7, 11 };
+            int[] numbers = { 2, 3, 5, 7, 11, 13 };
 
             // 1.2 Output the numbers array -> hint use Join
             // Expected outcome: 2, 3, 5, 7, 11
